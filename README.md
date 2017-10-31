@@ -17,4 +17,4 @@ To be put in the trained_w2v directory:
     twitter2vec.w2v.wv.syn0.npy
 
 
-w2v_vectors.tsv and w2v_words.tsv are to be used with the [Tensorflow Projector](projector.tensorflow.org)
+w2v_vectors.tsv and w2v_words.tsv are to be used with the [Tensorflow Projector](http://projector.tensorflow.org)
